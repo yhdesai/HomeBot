@@ -1,4 +1,4 @@
-# homebot
+
 
 ## About
 HomeBot is a smart home project which can be controlled using a website or an Android App. It has been designed to also be operated by messaging on Slack, Telegram, Twitter, Discord, and phone call.
